@@ -1,0 +1,18 @@
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+
+border-style: dotted;
+border-style: dashed;
+border-style: solid;
+border-style: double;
+border-style: groove;
+border-style: ridge;
+border-style: inset;
+border-style: outset;
+border-style: none;
+border-style: hidden;
+border-style: dotted dashed solid double;
+
+margin collapse/*(margin: 25px 50px 75px;)
+
